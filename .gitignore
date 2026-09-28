@@ -1,0 +1,17 @@
+# Installed dependencies
+node_modules/
+
+# Environment variables and private keys
+.env*
+*.pem
+
+# Build and deployment files
+.next/
+out/
+build/
+.vercel/
+
+# Logs and temporary files
+*.log
+*.tsbuildinfo
+~$*
