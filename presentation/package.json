@@ -1,0 +1,11 @@
+{
+  "name": "newscrap-story-deck",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node create-deck.mjs"
+  },
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}
