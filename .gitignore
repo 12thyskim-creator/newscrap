@@ -1,3 +1,8 @@
+# Keep only the application and this ignore file at the repository root
+/*
+!/.gitignore
+!/newscrap-app/
+
 # Installed dependencies
 node_modules/
 
